@@ -1,0 +1,22 @@
+Circuit: * D:\Dysk Google\My Projects\SPICE_simulations\Audio\www.efekty.diy-pl\NF-1\NF-1.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Fri May 05 12:46:44 2017
+Total elapsed time: 2.056 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 116752
+traniter = 116716
+tranpoints = 37267
+accept = 25610
+rejected = 11657
+matrix size = 90
+fillins = 165
+solver = Normal
+Matrix Compiler1: 15.95 KB object code size  3.2/1.5/[1.0]
+Matrix Compiler2: 10.24 KB object code size  1.1/1.4/[0.8]
+
+
